@@ -46,7 +46,7 @@ public class E1_2_3 {
 			}
 		}
 		StdOut.println(cout);
-		
+	
 	}
 
 
